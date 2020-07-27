@@ -1,0 +1,23 @@
+1595872441879	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/tzdtp0lj35l7_92l43jw12800000gn/T/rust_mozprofile0Z3fFG"
+1595872447222	Marionette	INFO	Listening on port 52224
+1595872455412	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/tzdtp0lj35l7_92l43jw12800000gn/T/rust_mozprofilePqvNzF"
+1595872457834	Marionette	INFO	Listening on port 52265
+1595872457899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595874295218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/tzdtp0lj35l7_92l43jw12800000gn/T/rust_mozprofileNfqj5H"
+1595874298351	Marionette	INFO	Listening on port 52501
+1595874298410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595874316363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/tzdtp0lj35l7_92l43jw12800000gn/T/rust_mozprofileNHHYQS"
+1595874319822	Marionette	INFO	Listening on port 52581
+1595874319867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595874389277	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/tzdtp0lj35l7_92l43jw12800000gn/T/rust_mozprofilesCg7FA"
+1595874391717	Marionette	INFO	Listening on port 52675
+1595874391744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595874406411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/tzdtp0lj35l7_92l43jw12800000gn/T/rust_mozprofileuqsN5w"
+1595874408586	Marionette	INFO	Listening on port 52747
+1595874408667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595874446458	Marionette	INFO	Stopped listening on port 52224
+1595874449535	Marionette	INFO	Stopped listening on port 52265
+1595874457101	Marionette	INFO	Stopped listening on port 52501
+1595874460024	Marionette	INFO	Stopped listening on port 52581
+1595874462723	Marionette	INFO	Stopped listening on port 52675
+1595874465827	Marionette	INFO	Stopped listening on port 52747
